@@ -1,3 +1,20 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "name": "sample-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrk-gd/packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrk-gd/packages/issues"
+  },
+  "homepage": "https://github.com/jrk-gd/packages#readme",
+  "description": ""
 }
