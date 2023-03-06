@@ -17,4 +17,7 @@
   },
   "homepage": "https://github.com/jrk-gd/packages#readme",
   "description": ""
+  "publishCOnfig": {
+	  "@jrk-gd:registry": "https://npm.pkg.github.com"
+  }
 }
